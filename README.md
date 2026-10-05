@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://amirmshabani.netlify.app" style="color: red; text-decoration: none;">AmirMohamad Shabani</a>
+  <a href="http://amirmshabani.ir/" style="color: red; text-decoration: none;">AmirMohamad Shabani</a>
   </span>
 </h1>
 
@@ -13,8 +13,8 @@
     I enjoy creating scalable solutions where performance, usability, and code quality come together.<br>
     📍 Based in Tehran, Iran
     🤝 Open to collaboration and freelance opportunities
-    🌐 amirmshabani.netlify.app<br>
-    <a href="https://amirmshabani.netlify.app" target="_blank">amirmshabani.netlify.app</a>
+    🌐 amirmshabani.ir/<br>
+    <a href="http://amirmshabani.ir/" target="_blank">amirmshabani.ir/</a>
   </samp>
 </p>
 
@@ -51,10 +51,10 @@
   <a href="https://t.me/amirmshabani">
     <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/amirssp09">
+  <a href="https://github.com/amirmshabani">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://amirmshabani.netlify.app">
+  <a href="http://amirmshabani.ir/">
     <img src="https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
